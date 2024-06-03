@@ -1,0 +1,23 @@
+.recipeCard {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+  border-radius: 10px;
+  font-family: Polysans, sans-serif;
+  color: #393e46;
+}
+
+.recipeName {
+    font-size:24px;
+    margin-bottom: 10px;
+}
+
+.imgSize {
+    width: 300px;
+    height: 300px;
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
